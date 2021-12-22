@@ -3,8 +3,7 @@
 
 ### Prerequisites
 
-The program is intended to run on Linux. Tested on Arch Linux and Ubuntu.
-There are no other known prerequisites
+The program was intended to run on Arch Linux. There are no prerequisites.
 
 ### Functionality
 
